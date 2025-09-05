@@ -1,0 +1,19 @@
+Timestamp,Student Name,Rule,Result
+2025-09-05 18:45:25,Ian,Attendance Rule,Satisfied
+2025-09-05 18:45:28,Ian,Grading Rule,Satisfied
+2025-09-05 18:45:33,Ian,Login Rule,Satisfied
+2025-09-05 18:47:48,Ian,Bonus Rule,Satisfied
+2025-09-05 18:47:51,Ian,Grading Rule,Satisfied
+2025-09-05 18:56:11,Nauy,Attendance Rule,Satisfied
+2025-09-05 18:56:14,Nauy,Grading Rule,Satisfied
+2025-09-05 18:56:34,Nauy,Login Rule,Satisfied
+2025-09-05 18:56:42,Nauy,Bonus Rule,Satisfied
+2025-09-05 18:57:16,Semaj,Attendance Rule,Violated
+2025-09-05 18:57:21,Semaj,Grading Rule,Satisfied
+2025-09-05 18:58:12,Semaj,Login Rule,Satisfied
+2025-09-05 18:58:15,Semaj,Bonus Rule,Satisfied
+2025-09-05 19:12:20,Denver,Attendance Rule,Satisfied
+2025-09-05 19:12:23,Denver,Grading Rule,Satisfied
+2025-09-05 19:12:32,Denver,Login Rule,Satisfied
+2025-09-05 19:12:36,Denver,Bonus Rule,Satisfied
+2025-09-05 19:12:44,Denver,Enrollment Clearance Rule,Satisfied
